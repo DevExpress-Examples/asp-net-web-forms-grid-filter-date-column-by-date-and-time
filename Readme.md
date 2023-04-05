@@ -1,4 +1,4 @@
-#Grid View for ASP.NET Web Forms - How to filter a date column by both date and time
+# Grid View for ASP.NET Web Forms - How to filter a date column by both date and time
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t446517/)**
 <!-- run online end -->
